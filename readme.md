@@ -128,6 +128,6 @@
   <br>
 
 ###
-<h3 align="left">🔥   My contributions :</h3>
+<h3 align="left">💡   My contributions :</h3>
 <img src="https://raw.githubusercontent.com/abhinavchoubey2000/abhinavchoubey2000/output/snake.svg" alt="Snake animation" />
 
