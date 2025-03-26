@@ -42,7 +42,6 @@
 
 ###
 <br>
-<br>
 <h3 align="left">🛠 Language and tools</h3>
 
 ###
@@ -110,6 +109,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
 </div>
+<br>
 
 ###
 
@@ -124,7 +124,7 @@
   <img src="https://github-profile-trophy.vercel.app?username=abhinavchoubey2000&theme=onedark&column=3&margin-w=2&margin-h=2&no-frame=true&no-bg=true&row=1" height="150" alt="trophy graph"  />
 </div>
   
-  
+  <br>
 
 ###
 <h3 align="left">🔥   My contributions :</h3>
