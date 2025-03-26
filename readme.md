@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
+  <img height="150" style="border-radius: 50%;" src="https://media.licdn.com/dms/image/v2/D5603AQGYcChxqgpxtA/profile-displayphoto-shrink_200_200/B56ZWzypFiHEAc-/0/1742478152484?e=1748476800&v=beta&t=jI_OUVd1zYsHQMHZeyPomy-NaRpzNxCATQhwBXcNzPc"  />
 </div>
 
 ###
@@ -46,7 +46,7 @@
 
 ###
 
-<div align="left">
+<div width="80%" align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
@@ -117,14 +117,14 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abhinavchoubey2000&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="100%" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=abhinavchoubey2000&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="100%" alt="languages graph"  />
-  <img src="https://github-profile-trophy.vercel.app?username=abhinavchoubey2000&theme=onedark&column=1&margin-w=2&margin-h=2&no-frame=true&no-bg=true" height="150" alt="trophy graph"  />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=abhinavchoubey2000&theme=one-dark&area=true&hide_border=true" height="150" alt="activity-graph graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=abhinavchoubey2000&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=true&order=1" height="100%" width="100%" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=abhinavchoubey2000&locale=en&hide_title=false&layout=compact&card_width=500&langs_count=5&theme=dracula&hide_border=true&order=2" height="100%" width="100%" alt="languages graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=abhinavchoubey2000&theme=one-dark&area=true&hide_border=true&radius=20" height="100%" width="100%" alt="activity-graph graph"  />
+  <img src="https://github-profile-trophy.vercel.app?username=abhinavchoubey2000&theme=onedark&column=3&margin-w=2&margin-h=2&no-frame=true&no-bg=true&row=1" height="150" alt="trophy graph"  />
 </div>
+  
+  
 
 ###
-
-<img src="https://raw.githubusercontent.com/abhinavchoubey2000/abhinavchoubey2000/output/snake.svg" alt="Snake animation" />
 
 ###
