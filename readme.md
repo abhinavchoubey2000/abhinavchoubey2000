@@ -79,7 +79,7 @@
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=abhinavchoubey2000&theme=one-dark&hide_border=true&area=true&radius=10" height="200" alt="activity-graph graph"  />
   <img src="https://github-readme-stats.vercel.app/api?username=abhinavchoubey2000&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=rose_pine&locale=en&hide_border=true&custom_title=My%20GitHub%20Stats" height="200" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=abhinavchoubey2000&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=rose_pine&hide_border=true" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=abhinavchoubey2000&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=rose_pine&hide_border=true" height="200" alt="languages graph"  />
   <img src="https://github-profile-trophy.vercel.app?username=abhinavchoubey2000&theme=tokyonight&column=3&row=1&margin-w=8&no-frame=true&no-bg=false" height="150" alt="trophy graph"  />
 </div>
 
