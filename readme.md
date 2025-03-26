@@ -4,8 +4,9 @@
 
 ###
 
-<h2 align="center" style="color:red">Hi👋, Greetings of the day ! <br>My name is Abhinav and I'm a Full Stack Developer, from India</h2>
+<h2 style="color" align="center">Hi👋, Greetings of the day ! <br>My name is Abhinav and I'm a Full Stack Developer, from India</h2>
 
+###
 
 <br clear="both">
 
@@ -76,10 +77,11 @@
 <br clear="both">
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=abhinavchoubey2000&theme=one-dark&hide_border=true&area=true&radius=10" height="100%" alt="activity-graph graph"  />
-  <br>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=abhinavchoubey2000&theme=one-dark&hide_border=true&area=true&radius=10" height="200" alt="activity-graph graph"  />
+  <div align="center" width="100%">
   <img src="https://github-readme-stats.vercel.app/api?username=abhinavchoubey2000&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=rose_pine&locale=en&hide_border=true&custom_title=My%20GitHub%20Stats" height="50%" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=abhinavchoubey2000&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=rose_pine&hide_border=true" height="50%" alt="languages graph"  />
+  </div>
   <img src="https://github-profile-trophy.vercel.app?username=abhinavchoubey2000&theme=tokyonight&column=3&row=1&margin-w=8&no-frame=true&no-bg=false" height="150" alt="trophy graph"  />
 </div>
 
