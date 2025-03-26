@@ -114,7 +114,7 @@
 
 ###
 
-<h3 align="left">🔥   Other info :</h3>
+<h3 align="left">ℹ️   Other info :</h3>
 
 ###
 
