@@ -6,11 +6,7 @@
 
 <h2 align="center" style="color:red">Hi👋, Greetings of the day ! <br>My name is Abhinav and I'm a Full Stack Developer, from India</h2>
 
-###
-<br>
-<br>
-<br>
-<br>
+
 <br clear="both">
 
 <div align="center">
